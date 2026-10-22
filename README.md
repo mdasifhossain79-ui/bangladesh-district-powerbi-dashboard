@@ -2,9 +2,6 @@
 
 An interactive Power BI dashboard that analyzes population, area, density and administrative data for the districts of Bangladesh.
 
-## Preview
-
-![Dashboard overview](screenshots/dashboard-overview.png)
 
 ## Objective
 
